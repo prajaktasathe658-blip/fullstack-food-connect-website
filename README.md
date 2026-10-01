@@ -35,6 +35,7 @@ Food Connect is a full-stack food donation and reduction platform that connects 
 ```text
 Food-Connect/
 ├── backend/
+|--frontend/
 ├── src/
 ├── public/
 ├── package.json
